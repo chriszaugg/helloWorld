@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "homepage": "https://github.com/chriszaugg/helloWorld",
   "main": "index.html",
+  "authors": [
+    "Chris Zaugg"
+  ],
   "license": "MIT",
   "dependencies": {
     "jquery": "~2.1.1"
