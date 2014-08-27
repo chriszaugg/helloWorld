@@ -2,4 +2,3 @@ helloWorld
 ==========
 
 #Title
-#YOLO
