@@ -1,0 +1,17 @@
+body{
+    padding: 15px;
+}
+
+h1{
+    color: lightskyblue;
+    font-family: Miriam;
+}
+
+#button-show{
+    padding: 10px 15px;
+    background-color: lightskyblue;
+    border: none;
+    font-size: 14px;
+    font-family: Miriam;
+    color: white;
+}
